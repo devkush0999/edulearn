@@ -71,7 +71,7 @@ export default function HomeScreen() {
                   color: theme.dark ? "#fff" : "#000",
                 }}
               >
-                our comprehensive project based courses..
+                our comprehensive projects based courses..
               </Text>
             </View>
           </View>
